@@ -1,6 +1,6 @@
 # CodePath
 
-<img src='https://github.com/siddhatapatil/Todo/src/main/res/mipmap-hdpi/todolist.png/' width="200" height="200" />
+<img src='Todo/src/main/res/mipmap-hdpi/todolist.png' width="200" height="200" />
 
 # Pre-work - Todo [List It]
 **List It** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
