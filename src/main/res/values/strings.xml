@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">List It</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_edit_notes_activity">List</string>
+    <string name="no_notes_text">  </string>
+    <string name="note_title">Heading</string>
+    <string name="note_body">List here....</string>
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_delete_selected_number"> Delete? Click on trash </string>
+    <string name="dialog_delete">Are you sure to delete?</string>
+    <string name="dialog_save_changes">Save this List?</string>
+    <string name="new_note_content_description">New List</string>
+    <string name="favourite_content_description">Favourite</string>
+    <string name="toast_deleted">Deleted</string>
+    <string name="toast_new_note">List created</string>
+    <string name="toast_note_saved">List saved</string>
+    <string name="toast_empty_note_discarded">List discarded</string>
+    <string name="toast_edittext_cannot_be_empty">Heading cannot be empty</string>
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="theme_primary">#006400</color>
+    <color name="theme_secondary">#580216</color>
+    <color name="selection">#FFA500</color>
+    <color name="drop_shadow_grey">#87737373</color>
+    <color name="background_white">#FFE6E6E6</color>
+    <color name="background">#ef7054</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="green">#47a693</color>
+    <color name="white">#FFFFFF</color>
+    <color name="midnight_blue">#2f2f4f</color>
+    <color name="black">#374cd2</color>
+    <color name="black_10">#1A000000</color>
+    <string-array name="colours" translatable="false">
+        <item>#44A1EB</item> <!-- blue -->
+        <item>#BBE535</item> <!-- green -->
+        <item>#F56545</item> <!-- red -->
+        <item>#EEEE22</item> <!-- yellow -->
+        <item>#FFFFFF</item> <!-- white -->
+    </string-array>
+
+</resources>
