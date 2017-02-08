@@ -3,7 +3,7 @@
 <img src='https://github.com/SiddhataPatil/Todo/blob/master/src/main/res/mipmap-hdpi/todolist.png' width="200" height="200" />
 
 # Pre-work - Todo [List It]
-**List It** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**List It** is an android app that allows user to make a simple todo list and has basic functionalities like adding new lists, editing and deleting an existing item and prioritizing list(putting it on top of all other lists).
 
 Submitted by: **Siddhata Patil**
 
@@ -21,15 +21,17 @@ The following **optional** features are implemented:
 * [ ] Persist the todo items [into SQLite](http://guides.codepath.com/android/Persisting-Data-to-the-Device#sqlite) instead of a text file
 * [x] Improve style of the todo items in the list [using a custom adapter](http://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView)
 * [ ] Add support for completion due dates for todo items (and display within listview item)
-* [x] Use a [DialogFragment](http://guides.codepath.com/android/Using-DialogFragment) instead of new Activity for editing items
+* [ ] Use a [DialogFragment](http://guides.codepath.com/android/Using-DialogFragment) instead of new Activity for editing items
 * [x] Add support for selecting the priority of each todo item (and display in listview item)
 * [x] Tweak the style improving the UI / UX, play with colors, images or backgrounds
 
 The following **additional** features are implemented:
 
-* [x] Allows you to put a star to the list to prioritize it, which automatically takes the list to the top of all the other lists.
-* [x] Also, if there is no priority, your latest list is at the top. 
-* [x] Last but not the least, it gives a sense of satisfaction by allowing the user to click on check, when you complete a particular task on your to-do list. 
+* [x] Allows you to put a 'high importance sign' to the list to prioritize it, which automatically takes the list to the top of all the other lists.
+* [x] If there is no priority, your latest list is at the top. 
+* [ ] You can set an alarm for each list.
+* [ ] You can change the background color in the app.
+* [ ] It gives a sense of satisfaction by allowing the user to click on check, when you complete a particular task on your to-do list. 
 
 ## Video Walkthrough 
 
@@ -39,20 +41,17 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Before starting to make this app, I referred this [Article](http://www.wired.com/2016/03/best-to-do-list-app/), which helped me plan and design my Priorityeee App.
+List It App is a modified version of the open source project, SwiftNotes.
 
 **Problem**:I spent almost an hour trying to figure out where exactly did R.java (generated file) got vanished from my working project.
 **Solution**: I started a new application project and copied all my files there.
 
 ## Application Configuration setting
 
-Android SDK Version: Eclipse IDE for Android Developers	Version: 8.0.2.201202111925
+Android Studio Version: 2.2.3
 
-Minimum Required SDK: API 16: Android 4.1 (Jelly Bean)
+Minimum Required SDK: API 23
 
-Target SDK: API 21: Android 4.X (L Preview)
-
-Project Build Target: Android 5.0
 
 ## License
 
