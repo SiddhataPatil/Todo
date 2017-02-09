@@ -3,7 +3,7 @@
 <img src='https://github.com/SiddhataPatil/Todo/blob/master/src/main/res/mipmap-hdpi/todolist.png' width="200" height="200" />
 
 # Pre-work - Todo [List It]
-**List It** is an android app that allows user to make a simple todo list and has basic functionalities like adding new lists, editing and deleting an existing item and prioritizing list(putting it on top of all other lists).
+**List It** Android App is designed by keeping in mind the primary use of it - i.e. taking notes (so the tasks are written on simple white notes; easy to read just with a glance) and also to priorotize task (the most important task will be on top of all other notes).This allows the user to make a simple todo list and has basic functionalities like adding new lists, editing and deleting an existing list along with prioritizing function.
 
 Submitted by: **Siddhata Patil**
 
@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 * [ ] Persist the todo items [into SQLite](http://guides.codepath.com/android/Persisting-Data-to-the-Device#sqlite) instead of a text file
 * [x] Improve style of the todo items in the list [using a custom adapter](http://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView)
-* [ ] Add support for completion due dates for todo items (and display within listview item)
+* [ ] Add support for completion due dates for todo items (and display within listview item) 
 * [ ] Use a [DialogFragment](http://guides.codepath.com/android/Using-DialogFragment) instead of new Activity for editing items
 * [x] Add support for selecting the priority of each todo item (and display in listview item)
 * [x] Tweak the style improving the UI / UX, play with colors, images or backgrounds
@@ -29,9 +29,9 @@ The following **additional** features are implemented:
 
 * [x] Allows you to put a 'high importance sign' to the list to prioritize it, which automatically takes the list to the top of all the other lists.
 * [x] If there is no priority, your latest list is at the top. 
-* [ ] You can set an alarm for each list.
-* [ ] You can change the background color in the app.
-* [ ] It gives a sense of satisfaction by allowing the user to click on check, when you complete a particular task on your to-do list. 
+* [ ] You can set an alarm for each list. [IN PROGRESS]
+* [ ] You can change the background color in the app.[IN PROGRESS]
+* [ ] A sense of satisfaction by allowing the user to click on check, once a task is completed.[IN PROGRESS]
 
 ## Video Walkthrough 
 
@@ -41,8 +41,6 @@ Here's a walkthrough of implemented user stories:
 
 
 ## Notes
-
-List It App is designed by keeping in mind the primary use of it - i.e. taking notes (so the tasks are written on simple white notes; easy to read just with a glance) and also to priorotize task (the most important task will be on top of all other notes).
 
 **Problem**:I spent almost an hour trying to figure out where exactly did R.java (generated file) got vanished from my working project.
 **Solution**: I started a new application project and copied all my files there.
