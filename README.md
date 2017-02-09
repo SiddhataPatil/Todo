@@ -42,7 +42,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-List It App is a modified version of the open source project, SwiftNotes.
+List It App is designed by keeping in mind the primary use of it - i.e. taking notes (so the tasks are written on simple white notes; easy to read just with a glance) and also to priorotize task (the most important task will be on top of all other notes).
 
 **Problem**:I spent almost an hour trying to figure out where exactly did R.java (generated file) got vanished from my working project.
 **Solution**: I started a new application project and copied all my files there.
