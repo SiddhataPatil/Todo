@@ -7,7 +7,8 @@
 
 Submitted by: **Siddhata Patil**
 
-Time spent: **9** hours spent in total
+Time spent: **9** hours spent in total 
+[Excluding time for Android Studio installation and learning its features. I was used to working with Android sdk using eclipse before;]
 
 ## User Stories
 
