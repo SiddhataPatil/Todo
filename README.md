@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/SiddhataPatil/Todo/blob/master/src/main/Todo.gif'width="400" height="750" />
+<img src='https://github.com/SiddhataPatil/Todo/blob/master/src/main/Todo.gif' width="400" height="750" />
 
 
 ## Notes
