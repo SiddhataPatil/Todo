@@ -29,7 +29,6 @@ The following **additional** features are implemented:
 
 * [x] Allows you to put a 'high importance sign' to the list to prioritize it, which automatically takes the list to the top of all the other lists.
 * [x] If there is no priority, your latest list is at the top. 
-* [ ] You can set an alarm for each list. [IN PROGRESS]
 
 ## Video Walkthrough 
 
